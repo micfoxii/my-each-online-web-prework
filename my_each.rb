@@ -5,8 +5,6 @@ yield(collection[i])
 i += 1 
 end
 collection
-#collection.map do |x|
-#"#{x}"
-#end
+
   # code here
 end
